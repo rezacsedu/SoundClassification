@@ -1,6 +1,8 @@
-Execute the script as follows:
+## Deep Learning-based approach for sound classification
 
-$ python3 UrbanSoundClassification_Keras_Advanced.py 'path/UrbanSound8K' 10
+### How to use this repo? 
+
+$ python3 UrbanSoundClassification_Keras_Advanced.py 'path/UrbanSound8K' 10 
 
 Here:
 1. 'path/UrbanSound8K' is the path of the folder
